@@ -1,4 +1,4 @@
-/home/david/dev/workspaces/ecowatcher/nativedroid/platforms/android/gen/com/phonegap/helloworld/R.java \
+/home/david/dev/workspaces/ecowatcher/nativedroid/platforms/android/gen/com/aloneta/jqm/R.java \
  : /home/david/dev/workspaces/ecowatcher/nativedroid/platforms/android/res/xml/config.xml \
 /home/david/dev/workspaces/ecowatcher/nativedroid/platforms/android/res/drawable-hdpi/ic_launcher.png \
 /home/david/dev/workspaces/ecowatcher/nativedroid/platforms/android/res/drawable-hdpi/icon.png \
